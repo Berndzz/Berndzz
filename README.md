@@ -1,8 +1,8 @@
 # Halo Semua 👋
 
-Perkenalkan nama saya **Hardus Tukan**.\
+Perkenalkan nama saya **Hardus Tukan**.
 
-Saya seorang **Mahasiswa** di [Universitas Kriste Duta Wacana](https://www.ukdw.ac.id/).\
+Saya seorang **Mahasiswa** di [Universitas Kriste Duta Wacana](https://www.ukdw.ac.id/).
 
 
 <!--
