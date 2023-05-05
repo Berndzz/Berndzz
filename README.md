@@ -2,8 +2,6 @@
 
 Perkenalkan nama saya **Hardus Tukan**.
 
-Saya seorang **Mahasiswa** di [Universitas Kristen Duta Wacana](https://www.ukdw.ac.id/).
-
 
 <!--
 **Berndzz/Berndzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
