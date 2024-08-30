@@ -1,6 +1,6 @@
 # Halo Semua 👋
 
-Perkenalkan nama saya **Hardus Tukan**.
+Perkenalkan nama saya **Bernard Tukan**.
 
 
 <!-- # Halo semua!👋 
